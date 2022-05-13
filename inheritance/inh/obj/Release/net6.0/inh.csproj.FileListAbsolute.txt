@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/inheritance/inh/bin/Release/net6.0/inh
+/Users/denashivanandareddypitta/Projects/inheritance/inh/bin/Release/net6.0/inh.deps.json
+/Users/denashivanandareddypitta/Projects/inheritance/inh/bin/Release/net6.0/inh.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/inheritance/inh/bin/Release/net6.0/inh.dll
+/Users/denashivanandareddypitta/Projects/inheritance/inh/bin/Release/net6.0/inh.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.dll
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/refint/inh.dll
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.pdb
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/inh.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/inheritance/inh/obj/Release/net6.0/ref/inh.dll
